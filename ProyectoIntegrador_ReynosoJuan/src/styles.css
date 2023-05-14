@@ -403,7 +403,7 @@ font-family: 'Ubuntu Mono', monospace;
       padding: 30px;
       font-family: 'Ubuntu', sans-serif;
   }
-  
+
   .habilidades_cont {
       width: 100%;
       background-color: #ddd;
@@ -421,6 +421,14 @@ font-family: 'Ubuntu Mono', monospace;
   .java {width: 75%; background-color: #aa63ed;}
   .py {width: 85%; background-color: #aa63ed;}
   .dj {width: 65%; background-color: #aa63ed;}
+
+  .com {width: 85%; background-color: #aa63ed;}
+  .sc {width: 75%; background-color: #aa63ed;}
+  .creat {width: 90%; background-color: #aa63ed;}
+
+  .ingles {width: 100%; background-color: #aa63ed;}
+  .port {width: 35%; background-color: #aa63ed;}
+  .it {width: 25%; background-color: #aa63ed;}
   
   .tarjetas_habilidad {
       display: flex;
@@ -441,7 +449,7 @@ font-family: 'Ubuntu Mono', monospace;
     display: grid;
     justify-content: center;
     background-color: #2f2f2f;
-    height: 130px;
+    height: 160px;
     text-align: center;
     font-family: 'Ubuntu', sans-serif;
     color: white;

@@ -532,3 +532,9 @@ font-family: 'Ubuntu Mono', monospace;
         display: grid;
     }
 }
+
+.titulo_label {
+    display: grid;
+    align-content: center;
+    font-family: 'Ubuntu Mono', monospace;
+}
